@@ -28,6 +28,7 @@ ensure BOBsTechnician_pc
 
 # Use:
 Press PgUp while in vehicle
+rprogress minigame to repair pc - use spacebar
 
 # Modified from
 
